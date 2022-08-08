@@ -2,8 +2,8 @@
 ## SEJAM BEM VINDOS! 🤘💀
 
 - 💻 Ainda não tenho experiências profissionais em TI.
-- 👨‍🎓 Cursando Engenharia de Software 3/8
-- 🌱 Atualmente estudo Python e Ruby.
+- 👨‍🎓 Cursando Engenharia de Software 4/8
+- 🌱 Atualmente estudo Python.
 - 📫 Contate-me através do email: yurifelipegf.work@gmail.com
 - 😄 Pronouns: Ele/dele
 - 👾 Em busca de um estágio!
